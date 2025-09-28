@@ -10,9 +10,6 @@ Connor Lee (https://github.com/Connorlee487)
 Evelynn Mak (https://github.com/evemak)
 
 ## Stakeholders
-
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
-
 Gigi Ma - College Student, Beginner Hiker
 
 Gigi is a college student who wants to build on her interest in hiking by finding more trails and connecting with other hikers. 
