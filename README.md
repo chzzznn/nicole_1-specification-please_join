@@ -12,6 +12,8 @@ Evelynn Mak (<https://github.com/evemak>)
 
 Hyunkyu Park (<https://github.com/hyunkyuu>)
 
+Nicole Zhang (<(https://github.com/chzzznn/>)
+
 ## Stakeholders
 Gigi Ma - College Student, Beginner Hiker
 
