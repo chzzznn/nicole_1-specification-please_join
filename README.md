@@ -47,7 +47,13 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+UML Diagram 1: As a hiker, I want to download offline trail maps with elevation and difficulty ratings so that I can navigate safely even without cell service.
+
+![UML Activity Diagram for Offline Trail Map Download](images/UML_diagram_1.png)
+
+*This activity diagram illustrates the complete user flow for downloading offline trail maps in the TrailBuddy app. The process begins when a hiker opens the app and navigates to the map page, where they can select their desired trail and request a download. The diagram shows the decision point for download success, with error handling that allows users to retry failed downloads. Upon successful download, the system fetches trail data including elevation and difficulty ratings, then stores this information for offline use, ensuring hikers can navigate safely even without cellular service.*
+
+
 
 ## Clickable Prototype
 
