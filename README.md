@@ -18,45 +18,29 @@ Gigi Ma - College Student, Beginner Hiker
 Gigi is a college student who wants to build on her interest in hiking by finding more trails and connecting with other hikers. 
 
 ### Goals 
+When asked about her biggest goal in hiking. Gigi wishes that there was a way to properly log her hikes and see her progression. "I am just starting to hike more frequently, but I want to be able to get better by climbing different trails. I wish I could see the progression in difficulty, as well as keep track of statistics so it is easier for me to visualize and keep track of my improvement".
 
-When asked what her biggest concern is as hiking as a beginner, Gigi expressed that safety is her number one priority, especially as a beginner where she has not found a solid community to go hiking with yet. "I would like to have a feature that would allow me have my family or friends be updated on my trail itinerary and live location. I would also like to have a quick way to update my friends and family every once in a while to let them know that I am safe and okay".
+When asked what her biggest need is as hiking as a beginner, Gigi expressed that safety is her number one priority, especially as a beginner where she has not found a solid community to go hiking with yet. "I would like to have a feature that would allow me have my family or friends be updated on my trail itinerary and live location. I would also like to have a quick way to update my friends and family every once in a while to let them know that I am safe and okay".
+
+When asked what would help Gigi become a better hiker, Gigi expresses that it would be nice to be able to learn more technical facts about each trail, as well as hear what other people are saying about the trail. "It would be nice to learn fun facts about the trail that help me keep connected to hiking and nature. It would be nice to know if there are any secret viewing spots that other people have come across or know the history behind the trial that I am hiking so that I can enjoy my journey more and stay informed"
+
+When asked what could keep hiking motivating or fun, especially when facing a lot of new challenges as a beginner hiker, Gigi mentions that it would be nice to have a place where she can set and complete goals. "It would be motivating if there can be a way where I can set hiking goals for myself and to be able to see them completed. I would also want to let people know about the hiking goals I accomplished and the trails that I completed".
+
+
+
 
 ### Problems and Frustrations
 
+
 When asked about her frustrations and problems with current hiking resources out there, Gigi expressed that trail conditions are not updated as often, and information about trails are often scattered around different parts of the internet and hard to find. 
+
+When asked whether or not she likes to hike alone. Gigi expressed that she likes to hike alone, but more often because she finds it difficult and frustrating to find people to hike with. "I want to be able to connect with people around my area who vary in experience level. I want to be able to see what trails people are thinking about hiking, so that I can match with someone and hike with them".
 
 "I wish there was an easier way to know the current conditions of a trail, and whether the current weather would make the trail ideal for hiking. I want to be able to make decisions about my hikes much quicker. I also want to know what people think of the trail recently, and whether or not the trails I go on have been maintained recently. It is hard to do so currently as information I have about the trails I want to hike are all over the place and sometimes outdated. I want to be able to find information about trails from hikers I trust as well". 
 
+On the same note, Gigi also is frustrated when she cannot navigate due to having no internet connection while hiking sometimes. "I want to be able to navigate through my trail on my phone without worrying about going offline. I find it frustrating and troublesome whenever my naviation for my trail does not load because I am not connected to the internet."
 
-
-Goals / Needs:
-Wants to explore new trails safely without worrying about losing cell service.
-Wants to be able to share her location with family when hiking alone.
-Wants to know real-time trail conditions before driving hours to the trailhead.
-Enjoys learning about landmarks and nature along the trail and sharing discoveries with friends.
-Wants to keep a record of completed hikes and track progress over time.
-Problems / Frustrations:
-Gets frustrated when trail apps don’t work offline or have outdated maps.
-Finds it stressful that family members worry when she hikes solo.
-Wishes there were an easier way to see if a trail is muddy, snowy, or closed before heading out.
-Thinks most hiking apps don’t do enough to make the experience engaging — just static maps and GPX files.
-Interview Script & Key Insights
-
-Q1: What is your biggest concern when planning a hike?
-Sarah: “Safety is always number one for me — I want to know the trail difficulty and be sure I won’t get lost if I lose service.”
-Insight: Validates offline maps + elevation/difficulty ratings as top priority.
-Q2: What frustrates you about current hiking apps?
-Sarah: “Half the time the trail info is outdated, or I can’t check conditions like snow or closures before I leave. I’ve driven two hours only to find the trailhead blocked.”
-Insight: Strong need for real-time, crowdsourced trail condition updates.
-Q3: Do you prefer hiking alone or with others?
-Sarah: “Mostly alone, but I’d love an easy way to find someone at the same trail if it feels unsafe.”
-Insight: Supports “Safety Buddy” and trail-matching features for social safety.
-Q4: Would you use AR features like identifying mountains or constellations?
-Sarah: “Absolutely! I always wonder what I’m looking at — having a fun learning feature would keep me using the app even after my hike.”
-Insight: Validates AR and education features as value-adds beyond safety.
-Q5: How do you currently track your hikes?
-Sarah: “I just use my phone notes and photos, but it’s not very organized. I’d like to have a timeline of my hikes with photos and stats.”
-Insight: Supports logging & progress-tracking features with photos, distance, elevation.
+When asked about her frustrations with current navigation apps, Gigi thinks that such apps are not as interactive. "I feel like all the other navigation apps out there are just to help out with where to go, but I want to be able to have an app where I am able to find new trails to go on based on what I previously hiked or liked. I want to be able to quickly find trails based on features I like as well, like find trails with waterfalls, views or even wild animals, and have that easily accessible". 
 
 
 ## Product Vision Statement
