@@ -27,11 +27,9 @@ When asked what could keep hiking motivating or fun, especially when facing a lo
 
 
 ### Problems and Frustrations
-
+When asked whether or not she likes to hike alone. Gigi expressed that she likes to hike alone, but more often because she finds it difficult and frustrating to find people to hike with. "I want to be able to connect with people around my area who vary in experience level. I want to be able to see what trails people are thinking about hiking, so that I can match with someone and hike with them".
 
 When asked about her frustrations and problems with current hiking resources out there, Gigi expressed that trail conditions are not updated as often, and information about trails are often scattered around different parts of the internet and hard to find. 
-
-When asked whether or not she likes to hike alone. Gigi expressed that she likes to hike alone, but more often because she finds it difficult and frustrating to find people to hike with. "I want to be able to connect with people around my area who vary in experience level. I want to be able to see what trails people are thinking about hiking, so that I can match with someone and hike with them".
 
 "I wish there was an easier way to know the current conditions of a trail, and whether the current weather would make the trail ideal for hiking. I want to be able to make decisions about my hikes much quicker. I also want to know what people think of the trail recently, and whether or not the trails I go on have been maintained recently. It is hard to do so currently as information I have about the trails I want to hike are all over the place and sometimes outdated. I want to be able to find information about trails from hikers I trust as well". 
 
