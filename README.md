@@ -6,9 +6,11 @@ A little exercise to get started with the specification phase of the software de
 
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 
-Connor Lee (https://github.com/Connorlee487)
+Connor Lee (<https://github.com/Connorlee487>)
 
-Evelynn Mak (https://github.com/evemak)
+Evelynn Mak (<https://github.com/evemak>)
+
+Hyunkyu Park (<https://github.com/hyunkyuu>)
 
 ## Stakeholders
 
@@ -26,7 +28,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 3. **As a hiker**, I want to press an "I'm safe" button to ping my emergency contacts so that they know I've completed my hike successfully.
 
-4. **As a hiker**, I want my phone to detect if I fall and send a distress signal when I regain service so that help can find me quickly in an emergency. 
+4. **As a hiker**, I want my phone to detect if I fall and send a distress signal when I regain service so that help can find me quickly in an emergency.
 
 5. **As a hiker**, I want to quickly log my hikes with photos, distance, and elevation so that I can track my progress and remember great trails.
 
@@ -52,7 +54,11 @@ UML Diagram 1: As a hiker, I want to download offline trail maps with elevation 
 
 *This activity diagram illustrates the complete user flow for downloading offline trail maps in the TrailBuddy app. The process begins when a hiker opens the app and navigates to the map page, where they can select their desired trail and request a download. The diagram shows the decision point for download success, with error handling that allows users to retry failed downloads. Upon successful download, the system fetches trail data including elevation and difficulty ratings, then stores this information for offline use, ensuring hikers can navigate safely even without cellular service.*
 
+UML Diagram 2: As a hiker, I want to quickly log my hikes with photos, distance, and elevation so that I can track my progress and remember great trails.
 
+![UML Activity Diagram for Hike Log Posts](images/UML_diagram_2.png)
+
+*This activity diagram illustrates the user flow for creating and sharing a hike report in the TrailBuddy app. The process begins once a hiker completes a hike and logs in to the TrailBuddy app. The user then creates a new report, which automatically includes a timestamp, and adds essential details such as trail name, distance, and elevation. At this stage, users can optionally upload photos, add descriptions, tags, or notes to enhance the report. A decision point follows where users choose whether to keep the report private or share it publicly. Private reports are saved to the user’s account, while public reports are posted to the community, enabling knowledge sharing and helping other hikers plan their trips.*
 
 ## Clickable Prototype
 
