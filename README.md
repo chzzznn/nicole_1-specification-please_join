@@ -7,8 +7,9 @@ A little exercise to get started with the specification phase of the software de
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 
 Connor Lee (https://github.com/Connorlee487)
-
 Evelynn Mak (https://github.com/evemak)
+
+hello
 
 ## Stakeholders
 
