@@ -14,6 +14,8 @@ Hyunkyu Park (<https://github.com/hyunkyuu>)
 
 Nicole Zhang (<https://github.com/chzzznn>)
 
+Lanxi Lin (<https://github.com/player1notfound>)
+
 ## Stakeholders
 Gigi Ma - College Student, Beginner Hiker
 
