@@ -91,4 +91,4 @@ UML Diagram 2: As a hiker, I want to quickly log my hikes with photos, distance,
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Clickable Prototype](https://www.figma.com/proto/WUatCc0R5kj8yIqqZ7ISta/please_join-figma?node-id=120-723&p=f&t=nPdsNznPTUXjmN8E-1&scaling=scale-down&content-scaling=fixed&page-id=106%3A184&starting-point-node-id=120%3A723)
